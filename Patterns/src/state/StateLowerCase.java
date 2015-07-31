@@ -3,7 +3,7 @@ package state;
 /**
  * Created by forando on 01.12.14.
  */
-class StateLowerCase implements Statelike {
+class StateLowerCase implements State {
 
     @Override
     public void writeName(final StateContext context, final String name) {

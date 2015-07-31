@@ -25,8 +25,8 @@ public class Main {
     }
 
     private static void placeFilterExample(){
-        //PlacesFilterDecorator rawPlaces = new PlacesFilterOut(new PlacesFilterUniqe(new PlacesHolder()), "gas|bo");
-        PlacesFilterDecorator rawPlaces = new PlacesFilterOut(new PlacesHolder(), "gas|beaut");
+        PlacesFilterDecorator rawPlaces = new PlacesFilterOut(new PlacesFilterUniqe(new PlacesHolder()), "gas|bo");
+        //PlacesFilterDecorator rawPlaces = new PlacesFilterOut(new PlacesHolder(), "gas|beaut");
         ArrayList<Place> places = rawPlaces.filter();
 
         for (Place place : places) {

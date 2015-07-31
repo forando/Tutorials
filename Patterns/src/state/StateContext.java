@@ -4,7 +4,7 @@ package state;
  * Created by forando on 01.12.14.
  */
 public class StateContext {
-    private Statelike myState;
+    private State myState;
     StateContext() {
         setState(new StateLowerCase());
     }
@@ -14,7 +14,7 @@ public class StateContext {
      * Normally only called by classes implementing the State interface.
      * @param newState the new state of this context
      */
-    void setState(final Statelike newState) {
+    void setState(final State newState) {
         myState = newState;
     }
 

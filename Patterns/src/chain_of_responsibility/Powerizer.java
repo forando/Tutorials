@@ -14,7 +14,7 @@ public class Powerizer implements Filter {
             }else{
                 response.setResponseParam(request * request);
             }
-            System.out.println("Powerizer: request > 0, responseParam = " + response.getResponseParam()
+            System.out.println("Powerizer: request > 1, responseParam = " + response.getResponseParam()
                     + ". Passing management to the next chain.");
             chain.doFilter(request, response);
             System.out.println("Powerizer: Exiting");

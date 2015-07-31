@@ -8,7 +8,7 @@ public class Main implements ResponseListener {
         /*
         Change this parameter to see different results.
          */
-        int param = 1;
+        int param = 6;
 
         new Main(param);
     }

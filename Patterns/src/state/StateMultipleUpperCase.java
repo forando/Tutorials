@@ -3,7 +3,7 @@ package state;
 /**
  * Created by forando on 01.12.14.
  */
-class StateMultipleUpperCase implements Statelike {
+class StateMultipleUpperCase implements State {
     /** Counter local to this state */
     private int count = 0;
 
