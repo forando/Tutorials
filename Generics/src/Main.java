@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2016. This code is a LogosProg property. All Rights Reserved.
+ */
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;

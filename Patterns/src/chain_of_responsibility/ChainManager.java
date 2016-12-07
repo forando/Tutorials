@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2016. This code is a LogosProg property. All Rights Reserved.
+ */
+
 package chain_of_responsibility;
 
 import java.util.ArrayList;
