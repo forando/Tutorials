@@ -11,6 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/../../untitled1/.idea/modules/reflections.iml" filepath="$PROJECT_DIR$/../../untitled1/.idea/modules/reflections.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/reflections_main.iml" filepath="$PROJECT_DIR$/.idea/modules/reflections_main.iml" group="reflections" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/reflections_test.iml" filepath="$PROJECT_DIR$/.idea/modules/reflections_test.iml" group="reflections" />
+      <module fileurl="file://$PROJECT_DIR$/../../untitled2/.idea/modules/spring.iml" filepath="$PROJECT_DIR$/../../untitled2/.idea/modules/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring_main.iml" group="spring" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring_test.iml" group="spring" />
     </modules>
   </component>
 </project>
