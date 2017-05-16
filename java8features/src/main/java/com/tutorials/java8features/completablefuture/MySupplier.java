@@ -1,4 +1,4 @@
-package main.java.com.tutorials.java8features.completablefuture;
+package com.tutorials.java8features.completablefuture;
 
 import java.util.function.Supplier;
 
