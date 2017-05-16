@@ -14,6 +14,8 @@
     <bytecodeTargetLevel>
       <module name="java8features_main" target="1.8" />
       <module name="java8features_test" target="1.8" />
+      <module name="reflections_main" target="1.8" />
+      <module name="reflections_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

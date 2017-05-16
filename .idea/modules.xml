@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../untitled/.idea/modules/java8features.iml" filepath="$PROJECT_DIR$/../../untitled/.idea/modules/java8features.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java8features_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java8features_main.iml" group="java8features" />
+      <module fileurl="file://$PROJECT_DIR$/../../untitled1/.idea/modules/reflections.iml" filepath="$PROJECT_DIR$/../../untitled1/.idea/modules/reflections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reflections_main.iml" filepath="$PROJECT_DIR$/.idea/modules/reflections_main.iml" group="reflections" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reflections_test.iml" filepath="$PROJECT_DIR$/.idea/modules/reflections_test.iml" group="reflections" />
     </modules>
   </component>
 </project>
